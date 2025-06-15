@@ -31,4 +31,16 @@ This project implements a **Singly Linked List** using Python and Object-Oriente
 3. Run the program:
 
 ```bash
-python "assignment 2.py"
+python "assignment 2.py"```
+
+4. You'll see the list printed.
+5. You'll be asked which node you want to delete (1-based index).
+6..You can continue deleting nodes or exit.
+
+Edge Case Handling
+1.Tries to delete from an empty list ➤ Shows an error
+2.Index is out of range ➤ Shows an error
+3.User can choose to continue or stop deletion
+
+Author
+Ekasjot Singh
