@@ -40,11 +40,8 @@ python "assignment 2.py"
 
 ## Edge Case Handling
 1.Tries to delete from an empty list ➤ Shows an error
-
 2.Index is out of range ➤ Shows an error
-
 3.User can choose to continue or stop deletion
 
 Author
-
 Ekasjot Singh
